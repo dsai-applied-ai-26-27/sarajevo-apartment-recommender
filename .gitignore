@@ -1,0 +1,6 @@
+# Raw and pilot listings are never committed (Week 3 feedback, item 2)
+data/pilot/
+data/raw/
+data/backup/
+*.7z
+.ipynb_checkpoints/
